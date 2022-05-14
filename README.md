@@ -1,7 +1,8 @@
 # HTML_Day_01
 
 HTML stands for (HYPER TEXT MARKUP LANGUAGE).<br>
-HTML was created by BERNERS-LEE in 1991.
+
+HTML was created by BERNERS-LEE in 1991.<br>
 
 The first standard HTML specification which was published in 1995.<br>
 
